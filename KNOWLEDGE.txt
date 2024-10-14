@@ -1,0 +1,739 @@
+﻿0-control used|1-this control in effect when this text in $questionShortCut|2-text on control (needed for list only)|3-text to add to $questionShortCut when control pushed|4-title|5-text below title including question|6-Button 1|7-Button 2|8-Button 3|9-Button 4|10-Button 5|11-Button 6|12-Button 7|13-Button 8|14-Reference|15-Notes|16-follow-up rec|17-text to paste or copy|18-link to reference|19-big label text|20-Big title|21-column 1|22-column 2|23-atlas image url|24-big image url|25-nodule description|26-future|27-future|28-future|29-future|30-future
+
+Introduction|rScriptor Knowledge Base|Welcome to the rScriptor Knowledge Base.  Here you will find reference information that may be helpful while dictating.<nl><nl><-- Please select an item from the list of available topics on the left.||||||||||||||||||||||||||||
+
+List||  Liver lesion (CT)|Liver lesion|Liver Lesion (CT)|Liver lesion incidentally discovered on CT that is indeterminate (not a cyst or focal fatty infiltration). <nl><nl><nl>What is the size of this mass?|< 1 cm|1.0 to 1.5 cm|Greater than 1.5 cm||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+List||  Gallbladder polyp (US)|Gallbladder polyp|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound that is indeterminate. <nl><nl><nl>Select one of the below options or other if no description matches.|*Suspected gallbladder polyp is not well visualized, or gallbladder is not well distended|**Cannot distinguish  if its >10 mm and tumefactive sludge or adenomyomatosis from suspected gallbladder polyp|***Suspicion to be invasive or a malignant tumor is high|History of primary sclerosing cholangitis (PSC)|Otherwise||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.|*Gallbladder polyp: Pedunculated or sessile in configuration, a solid, immobile, nonshadowing protrusion emerging from the gallbladder mucosa that is not related to gallstones, inspissated bile (sludge), a mucosal fold, or diffuse or focal wall thickening<nl><nl>**Sludge: Bile that has precipitated out of solution and is inspissated; it is often echogenic, nonshadowing, mobile, and layer dependently.<nl>Tumefactive sludge: Biliary precipitate that has combined to form a "sludge ball," or more solid look that resembles a tumor or polyp.<nl>Adenomyomatosis: Mural hyperplasia caused by intramural cholesterol crystals that can be diffuse, focal, segmental, and exhibit comet-tail artifact on grayscale imaging or twinkling artifact on color Doppler imaging; Rokitansky-Aschoff syndromes can also manifest as intramural cysts.<nl><nl>***Wall invasion, concomitant liver masses, malignant biliary obstruction, or pathologic lymph node enlargement at the porta hepatis or para-aortic chain are among the findings that may indicate an invasive malignancy.|||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+List||  Contrast Reaction|Contrast Reaction|Contrast Reaction|The following classifactions for acute adverse reactions  <nl><nl><nl>Select one of the below options or other if no description matches.|*Mild|**Moderate|***Severe||||||American College of Radiology. (2024). ACR manual on contrast media (Version 2024). ACR Committee on Drugs and Contrast Media. https://www.acr.org|*Allergic-like: Limited urticaria / pruritis, Cutaneous Edema, Limited "itchy" / "scratchy" throat, Nasal Congestion, Sneezing / conjunctivitis / rhinorrhea<nl><nl>*Physiologic: Limited nausea / vomiting limited, Transient flushing / warmth / chills, Headache / dizziness / anxiety / altered taste, Mild hypertension, Vasovagal reaction that resolves spontaneously<nl><nl>**Allergic-like: Diffuse urticaria / pruritis, Diffuse erythema, stable vital signs, Facial edema without dyspnea, Throat tightness or hoarseness without dyspnea, Wheezing / bronchospasm, mild or no hypoxia<nl><nl>**Physiologic: Protracted nausea / vomiting, Hypertensive urgency, Isolated chest pain, Vasovagal reaction that requires and is responsive to treatment<nl><nl>***Allergic-like: Diffuse edema, or facial edema with dyspnea, Diffuse erythema with hypotension, Laryngeal edema with stridor and/or hypoxia, Wheezing / bronchospasm, significant hypoxia, Anaphylactic shock (hypotension + tachycardia)<nl><nl>***Physiologic: Vasovagal reaction, Arrhythmia, Convulsions or seizures, Hypertensive emergency|||www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf||||||||||||
+
+Button1|Contrast Reaction|| Mild|Contrast Reaction|The contrast reaction was mild. Is the patient a child or an adult?<nl><nl><nl>Select one of the below options.|Child|Adult|||||||American College of Radiology. (2024). ACR manual on contrast media (Version 2024). ACR Committee on Drugs and Contrast Media. https://www.acr.org||||www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf||||||||||||
+
+Button1|Contrast Reaction Mild|| Child|Contrast Reaction||||||||||Kozar, RA, et al. Organ Injury Scaling 2018 Update: Spleen, Liver, and Kidney. J Trauma Acute Care Surg. 2018 Dec;85(6):1119-1122.||||journals.lww.com/jtrauma/Citation/2018/12000/Organ_injury_scaling_2018_update__Spleen,_liver,.12.aspx|||AAST (American Association for the Surgery of Trauma) liver trauma grading system.  Grade based upon the highest grade injury if multiple injuries are present.<nl><nl><nl>Grade I:<nl>  Subcapsular hematoma, < 10% surface area<nl>  Parenchymal laceration, < 1 cm in depth<nl><nl>Grade II:<nl>  Subcapsular hematoma, 10-50% surface area<nl>  Intraparenchymal hematoma, < 10 cm in diameter<nl>  Laceration, 1-3 cm in depth depth and <= 10 cm in length<nl><nl>Grade III:<nl>  Subcapsular hematoma, > 50% surface area or ruptured subcapsular or parenchymal hematoma<nl>  Intraparenchymal hematoma, > 10 cm in diameter<nl>  Laceration, > 3 cm in depth<nl>  Vascular injury or active bleeding contained within the liver parenchyma|Note: Advance one grade for multiple injuries to the liver up to Grade III<nl><nl><nl><nl>Grade IV:<nl>  Laceration with parenchymal disruption involving 25-75% of a hepatic lobe<nl>  Active bleeding extending into the peritoneal space<nl><nl>Grade V:<nl>  Laceration with parenchymal disruption involving > 75% of a hepatic lobe<nl>  Juxtahepatic venous injuries to include retrohepatic vena cava and central major hepatic veins<nl><nl><nl>Vascular injury - Pseudoaneurysm or AV fistula||||||||
+
+
+
+
+
+Button1|Liver lesion|| 1|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring < 1.0 cm in size that is indeterminate (not a cyst or focal fatty infilration).<nl><nl><nl>What is the risk of malignancy in this patient?|Unknown|*Low|**High||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>**High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button1|Liver lesion 1|| unknown|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring < 1.0 cm in size in a patient with unknown risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>**High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal MR in 3-6 months.|ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal MR in 3-6 months.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 unknown||||||||||||||||  For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal MR in 3-6 months.|||||||||||||
+
+Button4|Liver lesion 1 unknown||||||||||||||||  For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal CT or MR in 6 months.|||||||||||||
+
+Button7|Liver lesion 1 unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal CT or MR in 6 months.|||||||||||||
+
+Button8|Liver lesion 1 unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no further follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend follow-up abdominal CT or MR in 6 months.|||||||||||||
+
+Button2|Liver lesion 1|| low|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring < 1.0 cm in size in a patient with a *low risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>No follow-up is necessary.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 low||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button4|Liver lesion 1 low||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button7|Liver lesion 1 low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button8|Liver lesion 1 low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button3|Liver lesion 1|| high|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring < 1.0 cm in size in a patient with a *high risk of malignancy.<nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>Recommend follow-up abdominal MR in 3-6 months.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest follow-up abdominal MR in 3-6 months.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 high||||||||||||||||  Recommend follow-up abdominal MR in 3-6 months.|||||||||||||
+
+Button4|Liver lesion 1 high||||||||||||||||  Recommend follow-up abdominal MR in 3-6 months.|||||||||||||
+
+Button7|Liver lesion 1 high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest follow-up abdominal MR in 3-6 months.|||||||||||||
+
+Button8|Liver lesion 1 high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest follow-up abdominal MR in 3-6 months.|||||||||||||
+
+Button2|Liver lesion|| 1 to 1.5|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size that is indeterminate (not a cyst or focal fatty infiltration).<nl><nl><nl>The remaining questions are in regards to the enhancement characteristics of this lesion.  Was intravenous (IV) contrast administered for this exam?|Performed WITH<nl>IV Contrast|Performed WITHOUT<nl>IV Contrast|||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button1|Liver lesion 1 to 1.5|| with contrast|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size.<nl><nl><nl>What are the imaging characteristics of this lesion?|*Benign imaging features|**Suspicious imaging features|***Flash filling||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Benign imaging features: sharp margin, homogeneous low attenuation (20 Hounsfield units [HU]) on noncontrast and/or portal venous-phase imaging, and characteristic features of hemangiomas, focal nodular hyperplasia (FNH), focal fatty sparing or deposition, or perfusional changes. If pseudoenhancement is present, a benign cyst may measure >20 HU; radiologists’ discretion is necessary.<nl><nl>**Suspicious imaging features: ill-defined margins, heterogeneous density, mural thickening or nodularity, thick septa, and intermediate to high attenuation on portal venous-phase imaging (>20 HU, in the absence of pseudoenhancement). If pre- and postcontrast CT is available, enhancement >20 HU is a suspicious feature. To evaluate, prefer MR.<nl><nl>***Flash-filling: uniform hyperenhancement relative to hepatic parenchyma on arterial-phase (including late arterial/early portal venous-phase) postcontrast imaging. If additional postcontrast phases are available to characterize lesion as benign (eg, hemangioma) or suspicious (eg, hepatocellular carcinoma), the lesion should be placed in one of those respective categories and not here.|||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button2|Liver lesion 1 to 1.5|| without contrast|Liver Lesion (CT)|Liver lesion incidentally discovered on a noncontrast CT measuring 1.0 to 1.5 cm in size that is indeterminate (not a cyst or focal fatty infiltration).<nl><nl><nl>At your discretion the following statement can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||<nl><nl><nl>Recommend hepatic MR.||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 without contrast||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 without contrast||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button1|Liver lesion 1 to 1.5 with contrast|| benign|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size with *benign imaging features.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Benign imaging features: sharp margin, homogeneous low attenuation (20 Hounsfield units [HU]) on noncontrast and/or portal venous-phase imaging, and characteristic features of hemangiomas, focal nodular hyperplasia (FNH), focal fatty sparing or deposition, or perfusional changes. If pseudoenhancement is present, a benign cyst may measure >20 HU; radiologists’ discretion is necessary.|<nl><nl><nl>No follow-up is necessary.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast benign||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 with contrast benign||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button7|Liver lesion 1 to 1.5 with contrast benign||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button8|Liver lesion 1 to 1.5 with contrast benign||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button2|Liver lesion 1 to 1.5 with contrast|| suspicious|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size with *suspicious imaging features.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Suspicious imaging features: ill-defined margins, heterogeneous density, mural thickening or nodularity, thick septa, and intermediate to high attenuation on portal venous-phase imaging (>20 HU, in the absence of pseudoenhancement). If pre- and postcontrast CT is available, enhancement >20 HU is a suspicious feature. To evaluate, prefer MR.|<nl><nl><nl>Recommend hepatic MR.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast suspicious||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 with contrast suspicious||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button7|Liver lesion 1 to 1.5 with contrast suspicious||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button8|Liver lesion 1 to 1.5 with contrast suspicious||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast|| flash|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size with *flash filling enhancement.<nl><nl><nl>What is the risk of malignancy in this patient?|Unknown|**Low|***High||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Flash-filling: uniform hyperenhancement relative to hepatic parenchyma on arterial-phase (including late arterial/early portal venous-phase) postcontrast imaging. If additional postcontrast phases are available to characterize lesion as benign (eg, hemangioma) or suspicious (eg, hepatocellular carcinoma), the lesion should be placed in one of those respective categories and not here.<nl><nl>**Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>***High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button1|Liver lesion 1 to 1.5 with contrast flash|| unknown|Liver Lesion (CT)|*Flash-filling liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size in a patient with unknown risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Flash-filling: uniform hyperenhancement relative to hepatic parenchyma on arterial-phase (including late arterial/early portal venous-phase) postcontrast imaging. If additional postcontrast phases are available to characterize lesion as benign (eg, hemangioma) or suspicious (eg, hepatocellular carcinoma), the lesion should be placed in one of those respective categories and not here.|For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast flash unknown||||||||||||||||  For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 with contrast flash unknown||||||||||||||||  For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|||||||||||||
+
+Button7|Liver lesion 1 to 1.5 with contrast flash unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|||||||||||||
+
+Button8|Liver lesion 1 to 1.5 with contrast flash unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, no follow-up is necessary.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR.|||||||||||||
+
+Button2|Liver lesion 1 to 1.5 with contrast flash|| low|Liver Lesion (CT)|Flash-filling liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size in a patient with a *low risk of malignancy.<nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>No follow-up is necessary.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast flash low||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 with contrast flash low||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button7|Liver lesion 1 to 1.5 with contrast flash low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button8|Liver lesion 1 to 1.5 with contrast flash low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast flash|| high|Liver Lesion (CT)|Flash-filling liver lesion incidentally discovered on CT measuring 1.0 to 1.5 cm in size in a patient with a *high risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>Recommend hepatic MR.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1 to 1.5 with contrast flash high||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button4|Liver lesion 1 to 1.5 with contrast flash high||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button7|Liver lesion 1 to 1.5 with contrast flash high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button8|Liver lesion 1 to 1.5 with contrast flash high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button3|Liver lesion|| 1.5|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size that is indeterminate (not a cyst or focal fatty infilration).<nl><nl><nl>The remaining questions are in regards to the enhancement characteristics of this lesion.  Was intravenous (IV) contrast administered for this exam?|Performed WITH<nl>IV Contrast|Performed WITHOUT<nl>IV Contrast|||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button2|Liver lesion 1.5|| without contrast|Liver Lesion (CT)|Liver lesion incidentally discovered on a noncontrast CT measuring greater than 1.5 cm in size that is indeterminate (not a cyst or focal fatty infiltration).<nl><nl><nl>At your discretion the following statement can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||<nl><nl><nl>Recommend hepatic MR.||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1.5 without contrast||||||||||||||||  Recommend hepatic MR.|||||||||||||
+`
+Button4|Liver lesion 1.5 without contrast||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button1|Liver lesion 1.5|| with contrast|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size that is indeterminate (not a cyst or focal fatty infiltration).<nl><nl><nl>What are the imaging characteristics of this lesion?|*Benign imaging features|**Suspicious imaging features<nl>or ***Flash filling|||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Benign imaging features: sharp margin, homogeneous low attenuation (20 Hounsfield units [HU]) on noncontrast and/or porftal venous-phase imaging, and characteristic features of hemangiomas, focal nodular hyperplasia (FNH), focal fatty sparing or deposition, or perfusional changes. If pseudoenhancement is present, a benign cyst may measure >20 HU; radiologists’ discretion is necessary.<nl><nl>**Suspicious imaging features: ill-defined margins, heterogeneous density, mural thickening or nodularity, thick septa, and intermediate to high attenuation on portal venous-phase imaging (>20 HU, in the absence of pseudoenhancement). If pre- and postcontrast CT is available, enhancement >20 HU is a suspicious feature. To evaluate, prefer MR.<nl><nl>***Flash-filling: uniform hyperenhancement relative to hepatic parenchyma on arterial-phase (including late arterial/early portal venous-phase) postcontrast imaging. If additional postcontrast phases are available to characterize lesion as benign (eg, hemangioma) or suspicious (eg, hepatocellular carcinoma), the lesion should be placed in one of those respective categories and not here.|||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button1|Liver lesion 1.5 with contrast|| benign|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size with a low attenuation, benign imaging features.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.||<nl><nl><nl>No follow-up is necessary.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1.5 with contrast benign||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button4|Liver lesion 1.5 with contrast benign||||||||||||||||  No follow-up is necessary.|||||||||||||
+
+Button7|Liver lesion 1.5 with contrast benign||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button8|Liver lesion 1.5 with contrast benign||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest no follow-up is necessary.|||||||||||||
+
+Button2|Liver lesion 1.5 with contrast|| suspicious|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size with suspicious or flash-filling imaging features.<nl><nl><nl>What is the risk of malignancy in this patient?|Unknown|*Low|**High||||||Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>**High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|||www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button1|Liver lesion 1.5 with contrast suspicious|| unknown|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size with suspicious or flash-filling imaging features.  Unknown risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1.5 with contrast suspicious unknown||||||||||||||||  For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|||||||||||||
+
+Button4|Liver lesion 1.5 with contrast suspicious unknown||||||||||||||||  For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|||||||||||||
+
+Button7|Liver lesion 1.5 with contrast suspicious unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|||||||||||||
+
+Button8|Liver lesion 1.5 with contrast suspicious unknown||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) suggest the following.  For patients with a low risk of malignancy, recommend hepatic MR.  For patients with high risk of malignancy (known malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other hepatic risk factors), recommend hepatic MR or core biopsy.|||||||||||||
+
+Button2|Liver lesion 1.5 with contrast suspicious|| low|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size with suspicious or flash-filling imaging features.  *Low risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*Low risk individuals: No known malignancy, hepatic dysfunction or ^hepatic risk factors.  Within the low-risk category, older patients (>40 years of age) are at higher risk for malignancy than younger patients.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>Recommend hepatic MR.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1.5 with contrast suspicious low||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button4|Liver lesion 1.5 with contrast suspicious low||||||||||||||||  Recommend hepatic MR.|||||||||||||
+
+Button7|Liver lesion 1.5 with contrast suspicious low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button8|Liver lesion 1.5 with contrast suspicious low||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR.|||||||||||||
+
+Button3|Liver lesion 1.5 with contrast suspicious|| high|Liver Lesion (CT)|Liver lesion incidentally discovered on CT measuring greater than 1.5 cm in size with suspicious or flash-filling imaging features.  *High risk of malignancy.<nl><nl><nl>At your discretion, one of the following statements can be used or you can dictate your own recommendation.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Gore, et al. Management of Incidental Liver Lesions on CT: A White Paper of the ACR Incidental Findings Committee. JACR 2017; 14(11):1429-1437.|*High risk individuals: Known primary malignancy with a propensity to metastasize to the liver, cirrhosis, and/or other ^hepatic risk factors.<nl><nl>^Hepatic risk factors:<nl>     Hepatitis<nl>     Nonalcoholic steatohepatitis<nl>     Alcoholism<nl>     Sclerosing cholangitis<nl>     Primary biliary cirrhosis<nl>     Choledochal cysts<nl>     Hemochromatosis<nl>     Herditary hepatic conditions<nl>     Anabolic steroid use|<nl><nl><nl>Recommend hepatic MR or core needle biopsy.|<nl><nl>ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR or core needle biopsy.|www.jacr.org/article/S1546-1440(17)30889-X/pdf||||||||||||
+
+Button3|Liver lesion 1.5 with contrast suspicious high||||||||||||||||  Recommend hepatic MR or core needle biopsy.|||||||||||||
+
+Button4|Liver lesion 1.5 with contrast suspicious high||||||||||||||||  Recommend hepatic MR or core needle biopsy.|||||||||||||
+
+Button7|Liver lesion 1.5 with contrast suspicious high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR or core needle biopsy.|||||||||||||
+
+Button8|Liver lesion 1.5 with contrast suspicious high||||||||||||||||  ACR White Paper guidelines (Gore, et al. JACR 2017; 14(11):1429-1437.) recommend hepatic MR or core needle biopsy.|||||||||||||
+
+
+
+
+
+Button1|Gallbladder polyp|| poorly visualized|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound that is poorly visualized. <nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.|*Power Doppler, B-Flow, and microvascular Doppler are examples of higher sensitivity Doppler techniques that can be used to distinguish between a polyp and tumefactive sludge.|<nl><nl>Short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. Short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp poorly visualized||||||||||||||||  A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|||||||||||||
+
+Button4|Gallbladder polyp poorly visualized||||||||||||||||  A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|||||||||||||
+
+Button7|Gallbladder polyp poorly visualized||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|||||||||||||
+
+Button8|Gallbladder polyp poorly visualized||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. Short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation.|||||||||||||
+
+Button2|Gallbladder polyp|| cannot distinguish|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound that cannot be distinguished from sludge or adenomyomatosis from the suspected polyp. <nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.|*Higher sensitivity Doppler techniques such as power Doppler, B-Flow, and microvascular Doppler may help differentiate a polyp from tumefactive sludge.|<nl> A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp cannot distinguish||||||||||||||||  A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|||||||||||||
+
+Button4|Gallbladder polyp cannot distinguish||||||||||||||||  A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|||||||||||||
+
+Button7|Gallbladder polyp cannot distinguish||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|||||||||||||
+
+Button8|Gallbladder polyp cannot distinguish||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) the following is suggested. A short interval follow-up US within 1-2 months with optimized grayscale, color Doppler technique, and patient preparation, a CEUS (Contrast-enhanced US), or a MR for further characterization.|||||||||||||
+
+Button3|Gallbladder polyp|| suspicion of tumor is high|Gallbladder polyp (US)|Gallbladder polyp discovered on ultrasound has a high suspicion to be an invasive or malignant tumor. <nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Referral to oncologic specialist.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) a referral to an oncologic specialist is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp suspicion of tumor is high||||||||||||||||  Referral to oncologic specialist.|||||||||||||
+
+Button4|Gallbladder polyp suspicion of tumor is high||||||||||||||||  Referral to oncologic specialist.|||||||||||||
+
+Button3|Gallbladder polyp suspicion of tumor is high||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) a referral to an oncologic specialist is suggested.|||||||||||||
+
+Button4|Gallbladder polyp suspicion of tumor is high||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) a referral to an oncologic specialist is suggested.|||||||||||||
+
+Button4|Gallbladder polyp|| with history|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound and the patient has history of primary sclerosing cholangitis (PSC). <nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Refer to gastrointestinal speciality guidelines.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) refer to gastrointestinal speciality guidelines.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp with history||||||||||||||||  Refer to gastrointestinal specialty guidelines.|||||||||||||
+
+Button4|Gallbladder polyp with history||||||||||||||||  Refer to gastrointestinal specialty guidelines.|||||||||||||
+
+Button7|Gallbladder polyp with history||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) refer to gastrointestinal speciality guidelines.|||||||||||||
+
+Button8|Gallbladder polyp with history||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289) refer to gastrointestinal speciality guidelines.|||||||||||||
+
+Button5|Gallbladder polyp|| otherwise|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound must go through the SRU algorithm.<nl><nl><nl>Based on the ultrasound of the polyp pick the most apt physical description.|*Extremely Low Risk<nl> Pedunculated ball-on-the-wall or pedunculated with thin stalk|**Low Risk <nl>Pedunculated with thick/wide stalk or Sessile|***Indeterminate Risk <nl>Focal Wall thickening >= 4 mm adjacent to polyp||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.|*Extremely Low Risk: If unsure, choose Low Risk category.<nl>Pedunculated ball-on-the-wall: Pedunculated polyp: usually ovoid or spherical, but only tangentially attached to the wall, like a ball at rest on a surface.<nl>Pedunculated: A stalk or pedicle serves as the point of attachment to the wall.<nl><nl>**Low Risk: It is optional to consider In the event that specific ethnicities (North Indian, Indigenous North and South America, local incidence) are known, it is optional to consider Low Risk rather than Extremely Low Risk.<nl>Sessile: A wide-based point of attachment to wall; flat or dome-shaped mass protruding from the mucosal layer without a stalk.<nl><nl>***Indeterminate Risk: If unsure, choose Low Risk Category<nl>Focal wall thickening next to polyp: Any localized thickening of the wall >= 4 mm that is not related to mucosal fold, adenomyomatosis, edema, or gallbladder underdistention next to a gallbladder polyp.|||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise|| Extremely Low Risk|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is extremely low risk.<nl><nl><nl>What size is the polyp?|<= 9 mm|10 to 14 mm|>= 15 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.|Polyp size should be rounded to nearest millimeter.|||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Extremely Low Risk|| =< 9 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is extremely low risk and equal or under 9 mm in size.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk =< 9 mm||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk =< 9 mm||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk =< 9 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk =< 9 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Extremely Low Risk|| 10 to 14 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is extremely low risk and is in between 10 mm and 14 mm in size.<nl><nl><nl>Select one of the below timeframes of this visit.|First mention of a Gallbladder polyp|>= 6 months since first visit|Between 6 and 12 months since first visit|Between 12 and 24 months since first visit |24 months or more since first visit||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+
+Button1|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm|| first|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is extremely low risk currently is in between 10 mm and 14 mm on first visit.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>A follow-up in 6 months is suggested or a surgical consult may be an acceptable alternative.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested or a surgical consult may be an acceptable alternative.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  A follow-up US in 6 months is suggested or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  A follow-up in 6 months is suggested or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm|| six|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease|Increase of >= 4 mm since last visit|Decrease of >= 4 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+
+Button1|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has not increased or decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>Follow-up US in 6 months or a surgical consult may be an acceptable alternative.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months or a surgical consult may be an acceptable alternative.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six follow up||||||||||||||||  Follow-up US in 6 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six follow up||||||||||||||||  Follow-up US in 6 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm|| 6 to 12|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease|Increase of >= 4 mm since last visit|Decrease of >= 4 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm|| 12 to 24|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease|Increase of >= 4 mm since last visit|Decrease of >= 4 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has increased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is extremely low risk and is in between 10 mm and 14 mm and has decreased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button5|Gallbladder polyp otherwise Extremely Low Risk 10 to 14 mm|| 24+|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound 24+ months ago is extremely low risk currently is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>No follow-up US is necessary or a surgical consult may be an acceptable alternative.|<nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  No follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary or a surgical consult may be an acceptable alternative.|||||||||||||
+
+
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk|| >= 15 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is extremely low risk and equal or over 15 mm in size.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Extremely Low Risk >= 15 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Extremely Low Risk >= 15 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Extremely Low Risk >= 15 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Extremely Low Risk >= 15 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+
+
+Button2|Gallbladder polyp otherwise|| Low Risk|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk.<nl><nl><nl>What size is the polyp?|<= 6 mm|7 to 9 mm|10 to 14 mm|>= 15 mm|||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk|| =< 6 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk and equal or under 6 mm in size.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk =< 6 mm||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk =< 6 mm||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk =< 6 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk =< 6 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk|| 7 to 9 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk and is between 7 and 9 mm in size.<nl><nl><nl>Select one of the below timeframes of this visit.|First mention of a Gallbladder polyp|>= 12 months since first visit|12 or more months since first visit||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 7 to 9 mm|| first|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk and is between 7 and 9 mm in size on the first visit.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A follow-up in 12 months is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 12 months is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 7 to 9 mm first||||||||||||||||  A follow-up US in 12 months is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 7 to 9 mm first||||||||||||||||  A follow-up in 12 months is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 7 to 9 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 12 months is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 7 to 9 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 12 months is suggested.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 7 to 9 mm|| 12|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 12 months ago on ultrasound is low risk and is in between 7 mm and 9 mm.<nl><nl><nl>Select one of the below changes in size.|Increase of under 4 mm or decrease of 4 mm or more since last visit|Increase of 4 mm or more since last visit|||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12|| none|Gallbladder polyp (US)|Gallbladder polyps incidentally discovered under 12 months ago on ultrasound is low risk and is in between 7 mm and 9 mm and hasn't grown out of category or decreased 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 12 months ago on ultrasound is extremely low risk and is in between 7 mm and 9 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 7 to 9 mm 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 7 to 9 mm|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 or more months ago on ultrasound is extremely low risk and is in between 7 mm and 9 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl>Follow-up US in 12 months or a surgical consult may be an acceptable alternative.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 7 to 9 mm follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 7 to 9 mm follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 7 to 9 mm follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 7 to 9 mm follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk|| 10 to 14 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk and is in between 10 mm and 14 mm in size.<nl><nl><nl>Select one of the below timeframes of this visit.|First mention of a Gallbladder polyp|around 6 months since first visit|Between 6 and 12 months since first visit|Between 12 and 24 months since first visit |Between 24 and 36 month since first visit|36 months or more since first visit|||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+
+Button1|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| first|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk currently is in between 10 mm and 14 mm on first visit.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>cu rrent cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A follow-up in 6 months is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  A follow-up US in 6 months is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  A follow-up in 6 months is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| six|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease|Increase of >= 4 mm since last visit|Decrease of >= 4 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 10 to 14 mm six|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has not increased or decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 6 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm six follow up||||||||||||||||  Follow-up US in 6 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm six follow up||||||||||||||||  Follow-up US in 6 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 10 to 14 mm six|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm six|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm six none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm six none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| 6 to 12|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease since first visit|Increase of >= 4 mm since first visit|Decrease of >= 4 mm since first visit||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| 12 to 24|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease in last 12 months|Increase of >= 4 mm in the last 12 months|Decrease of >= 4 mm in last 12 months||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has increased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has decreased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+Button5|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| 24 to 36|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease in last 12 months|Increase of >= 4 mm in the last 12 months|Decrease of >= 4 mm in last 12 months||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is low risk and is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has increased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is low risk and is in between 10 mm and 14 mm and has decreased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14 mm 24 to 36 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+Button6|Gallbladder polyp otherwise Low Risk 10 to 14 mm|| 36+|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound 36 months or more ago is low risk currently is in between 10 mm and 14 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk 10 to 14mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk|| >= 15 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound is low risk and equal or above 15 mm in length.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Low Risk >= 15 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Low Risk >= 15 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Low Risk >= 15 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Low Risk >= 15 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+
+Button3|Gallbladder polyp otherwise|| Indeterminate Risk|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound has an interminate amount of risk.<nl><nl><nl>What size is the polyp?|<= 6 mm|>= 7 mm|||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk|| <= 6 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound has an interminate amount of risk and is equal and under 6 mm in size.<nl><nl><nl>Select one of the below timeframes of this visit.|First mention of a Gallbladder polyp|around 6 months since first visit|Between 6 and 12 months since first visit|Between 12 and 24 months since first visit |Between 24 and 36 month since first visit|36 months or more since first visit|||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| first|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound has an interminate amount of risk and is equal and under 6 mm in size on first visit.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>cu rrent cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A follow-up in 6 months is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  A follow-up US in 6 months is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  A follow-up in 6 months is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a follow-up in 6 months is suggested.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| six|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound has an interminate amount of risk and is equal and under 6 mm in size after 6 months.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease|Increase of >= 4 mm since last visit|Decrease of >= 4 mm||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has not increased or decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 6 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six follow up||||||||||||||||  Follow-up US in 6 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six follow up||||||||||||||||  Follow-up US in 6 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 6 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered under 6 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm six none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up US is necessary.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| 6 to 12|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease since first visit|Increase of >= 4 mm since first visit|Decrease of >= 4 mm since first visit||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has increased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 6 - 12 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has decreased over 4 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 6 to 12 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| 12 to 24|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease in last 12 months|Increase of >= 4 mm in the last 12 months|Decrease of >= 4 mm in last 12 months||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has increased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has decreased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 12 to 24 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+Button5|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| 24 to 36|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the below changes in size.|<= 4 mm increase or decrease in last 12 months|Increase of >= 4 mm in the last 12 months|Decrease of >= 4 mm in last 12 months||||||Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||||pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button1|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36|| follow up|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is Indeterminate risk and is <= 6 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>Follow-up US in 12 months.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 follow up||||||||||||||||  Follow-up US in 12 months.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 follow up||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), follow-up US in 12 months.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36|| consult|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 24 - 36 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has increased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 consult||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 consult||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36|| none|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered 12 - 24 months ago on ultrasound is Indeterminate risk and is <= 6 mm and has decreased over 4 mm in past 12 months.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 none||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm 24 to 36 none||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289),  no follow-up  US is necessary.|||||||||||||
+
+Button6|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm|| 36+|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound 36 months or more ago is Indeterminate risk currently is <= 6 mm.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>No follow-up US is necessary.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  No follow-up US is necessary.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk <= 6 mm first||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), no follow-up US is necessary.|||||||||||||
+
+Button2|Gallbladder polyp otherwise Indeterminate Risk|| >= 7 mm|Gallbladder polyp (US)|Gallbladder polyp incidentally discovered on ultrasound has an interminate amount of risk and equal or above 7 mm in size.<nl><nl><nl>Select one of the options below.|||Paste into report at<nl>current cursor position|Copy to clipboard only|||Paste into report at<nl>current cursor position|Copy to clipboard only|Kamaya, et al. Management of Incidentally Detected Gallbladder Polyps:Society of Radiologists in Ultrasound Consensus Conference Recommendations. Radiology 2022; 305(2):277-289.||<nl><nl><nl>A surgical consult is suggested.|<nl><nl>According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|pubs.rsna.org/doi/epdf/10.1148/radiol.213079||||||||||||
+
+Button3|Gallbladder polyp otherwise Indeterminate Risk >= 7 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button4|Gallbladder polyp otherwise Indeterminate Risk >= 7 mm||||||||||||||||  A surgical consult is suggested.|||||||||||||
+
+Button7|Gallbladder polyp otherwise Indeterminate Risk >= 7 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
+
+Button8|Gallbladder polyp otherwise Indeterminate Risk >= 7 mm||||||||||||||||  According to SRU Guidelines (Kamaya, et al. Radiology 2022; 305(2):277-289), a surgical consult is suggested.|||||||||||||
